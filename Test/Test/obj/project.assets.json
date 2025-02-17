@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\lesASP\\Test\\Test\\Test.csproj",
+      "projectUniqueName": "D:\\testApi\\Test\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "D:\\lesASP\\Test\\Test\\Test.csproj",
+      "projectPath": "D:\\testApi\\Test\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\lesASP\\Test\\Test\\obj\\",
+      "outputPath": "D:\\testApi\\Test\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
